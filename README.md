@@ -1,3 +1,4 @@
 # Club La Macia
-JOAQUIN IRIOGYEN - BENJAMIN QUIROGA.
+JOAQUIN IRIGOYEN - BENJAMIN QUIROGA.
+
 Pagina Web del club la macia. contiene Boostrap.
